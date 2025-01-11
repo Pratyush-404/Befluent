@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">BeFluent</string>
+    <string name="title_activity_main">BeFluent</string>
+    <string name="package_name">ai.befluent</string>
+    <string name="custom_url_scheme">ai.befluent</string>
+</resources>

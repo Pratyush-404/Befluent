@@ -1,0 +1,8 @@
+{
+  "name": "BeFluent",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "56b6313c"
+}

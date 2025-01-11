@@ -1,0 +1,4 @@
+ion-progress-bar.results {
+  --background: var(--ion-color-danger);
+  --progress-background: var(--ion-color-success);
+}

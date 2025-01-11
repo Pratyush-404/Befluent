@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "ai.befluent",
+    "sha256_cert_fingerprints":
+    ["30:0F:87:93:D3:B5:81:8A:A2:BA:79:6A:74:EE:CC:18:5D:3B:1D:EC:DD:0E:7C:44:A5:AB:CF:53:C0:47:17:A2"]
+  }
+}]
